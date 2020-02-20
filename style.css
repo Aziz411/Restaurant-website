@@ -1,0 +1,52 @@
+body{
+	font-family: latha;
+	color: white;
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("Layer 1.png");
+	background-size: cover;
+}
+.menu{
+	width: 900px;
+	float: right;
+	
+}
+.menu ul li{
+	width: 160px;
+	float: left;
+	margin: 10px auto;
+	text-align: center;
+	list-style: none;
+}
+.menu ul li a{
+	text-decoration : none;
+	color: white;
+}
+.menu ul li:hover{
+	background-color: none;
+	border : 10px solid red;
+	color: white;
+}
+.titre1{
+	height: 300px;
+	width: 342px;
+	font-size: 50px;
+	margin: 160px 0px 0px -200px;
+	position: absolute;
+	border: 9px solid  white;
+
+}
+
+.titre2{
+	height: 200px;
+	width: 200px;
+	font-size: 27px;
+	margin: 460px 0px 0px -200px;
+	position: absolute;
+}
+
+.centr1{
+	background-image: url(Rectangle 2.png);
+	width: 100px;
+	height: 100px;
+}
+
+
